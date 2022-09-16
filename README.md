@@ -1,5 +1,5 @@
 # Election_Analysis 
-(Note: The Python code is inide of the analysis folder)
+(Note: To see the python code please open the analysis folder)
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent loca congressional election.
