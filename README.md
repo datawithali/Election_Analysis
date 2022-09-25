@@ -47,9 +47,9 @@ The data we need to retrieve.
 5. Determine the winner of the election based on popular vote.
     
     ## Election Audit Challenge Summary
- While learning Python, reviewing the code, building a sound script for analysis you could miss some creative ways to look at the data. You need a balance to engineering and data analysis.
 
-Todo Checklist
+
+
 A helpful checklist to gauge how your README is coming on what I would like to finish:
 
 
