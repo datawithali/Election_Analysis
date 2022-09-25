@@ -36,7 +36,7 @@ The Analysis of the election show that:
    Winner: Diana DeGette
     Winning Vote Count: 272,892
     Winning Percentage: 73.8%. 
-    ## CHallenge Overview
+    ## Challenge Overview
     We helped Seth and Tom submit the election audit results to the election commission.
 
 The data we need to retrieve.
