@@ -15,6 +15,12 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 -Sofware: Python 3.7.1 Visual Studio Code
 
 ## Summary
+
+
+![election_results](https://user-images.githubusercontent.com/109055148/192167043-eb33884c-38b4-4075-88af-225390bbf589.png)
+
+
+
 The Analysis of the election show that:
 -There were "x" votes cast in the election. 
 -The candidate were:
