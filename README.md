@@ -22,18 +22,20 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 
 The Analysis of the election show that:
--There were "x" votes cast in the election. 
+-There were "369.711"  total votes cast in the election. 
 -The candidate were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
  - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes
-    - Candidate 2 received "x%" of the vote and "y" number of votes
-    - Candidate 3 received "x%" of the vote and "y" number of votes
+    Charles Casper Stockham: 23.0% (85,213)
+    Diana DeGette: 73.8% (272,892)
+    Raymon Anthony Doane: 3.1% (11,606)
     
  - The winner of the election was:
-    - Candidate (1, 2 or 3), who received "x%" of the vote and "y" number of votes. 
+   Winner: Diana DeGette
+    Winning Vote Count: 272,892
+    Winning Percentage: 73.8%. 
     ## CHallenge Overview
     We helped Seth and Tom submit the election audit results to the election commission.
 
@@ -44,5 +46,11 @@ The data we need to retrieve.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
     
-    ## Challenge Summary
-    
+    ## Election Audit Challenge Summary
+ While learning Python, reviewing the code, building a sound script for analysis you could miss some creative ways to look at the data. You need a balance to engineering and data analysis.
+
+Todo Checklist
+A helpful checklist to gauge how your README is coming on what I would like to finish:
+
+
+ Visualize the  map of the colorado area with census data mapped over.  
