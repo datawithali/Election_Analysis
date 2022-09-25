@@ -29,7 +29,14 @@ The Analysis of the election show that:
  - The winner of the election was:
     - Candidate (1, 2 or 3), who received "x%" of the vote and "y" number of votes. 
     ## CHallenge Overview
-    
+    We helped Seth and Tom submit the election audit results to the election commission.
+
+The data we need to retrieve.
+1. Capture and calculate the total number of votes cast through looping.*
+2. Get a complete list of candidates who received votes.
+3. Calculate the total number of votes each candidate received.
+4. Calculate the percentage of votes each candidate won.
+5. Determine the winner of the election based on popular vote.
     
     ## Challenge Summary
     
